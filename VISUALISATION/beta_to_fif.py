@@ -8,7 +8,7 @@ Created on Mon Oct 21 20:46:42 2019
 import mne
 import numpy as np
 from scipy import stats
-import pickle
+
 import os
 import copy
 import matplotlib.pyplot as plt
