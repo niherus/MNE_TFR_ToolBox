@@ -295,6 +295,6 @@ Num of subj - {9}
             pdf.image(pic_file, x=0, y=y, w=1200, h=0)
             y += 150
         
-        pdf.output(os.path.join("all_pdf", comp_name + "pdf"))
+        pdf.output(os.path.join("all_pdf", comp_name + ".pdf"))
         
  
