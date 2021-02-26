@@ -45,9 +45,6 @@ comparisons = {
         ]
     }
 
-    
-#Output folder
-output = 'output_topo/'
 
 #Plot/Topomap params
 p_mul = 1.6
